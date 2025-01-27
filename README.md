@@ -19,8 +19,6 @@
 
 ## Proyectos Destacados
 
-Aquí puedes agregar enlaces a algunos de tus proyectos más importantes. Esto le dará a la gente una idea de tus habilidades prácticas.
-
 - [Herramientas](https://github.com/GermanLamela/herramientas) - Proyecto de hardware del año 2024 sobre distintos programas que ayudan para el correcto estado y funcionamiento del equipo.
 - [Scripts](https://github.com/GermanLamela/Scripts) - Proyecto de sistemas operativos del año 2024 sobre un boletín de ejercicios de scripting en bash.
 
